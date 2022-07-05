@@ -1,4 +1,4 @@
-100DaysOfcode-heads-or-tails
+100DaysOfCode-heads-or-tails
 
 This program randomly picks "Heads" or "Tails".
 
